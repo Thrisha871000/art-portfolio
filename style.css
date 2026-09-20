@@ -734,37 +734,9 @@ body {
     height: 360px;
   }
 
-  .banner {
-    padding: 60px 24px;
-  }
-  .banner-line {
-    font-size: 30px;
-    transform: none;
-    letter-spacing: 1px;
-  }
-  .line-light {
-    margin-left: 0;
-  }
-  .line-white {
-    margin-left: 0;
-    margin-top: 10px;
-  }
-  .letter-l {
-    width: 90px;
-    height: 75px;
-  }
-  .l-vertical {
-    width: 22px;
-    height: 56px;
-  }
-  .l-horizontal {
-    width: 90px;
-    height: 22px;
-    bottom: 6px;
-  }
-  .banner-caption {
-    font-size: 13px;
-  }
+.banner {
+  zoom: 0.27;
+}
 
   .gallery-row {
     display: grid;
