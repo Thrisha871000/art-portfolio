@@ -704,25 +704,25 @@ body {
 
 @media (pointer: coarse) {
   .hero-title {
-    font-size: 220px;
+    font-size: 80px;
     transform: scaleX(1.15);
     transform-origin: center;
   }
 
   .ink-title {
-    font-size: 220px;
+    font-size: 40px;
     transform: scaleX(1.2);
     transform-origin: center;
   }
 
   .linework-title {
-    font-size: 140px;
+    font-size: 40px;
     transform: scaleX(1.2);
     transform-origin: center;
   }
 
   .closing-title {
-    font-size: 120px;
+    font-size: 20px;
     transform: scaleX(1.15);
     transform-origin: center;
   }
